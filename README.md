@@ -2,7 +2,7 @@
 
 Good day.
 
-I build software systems, frameworks, and libraries, mostly in C++.
+I build software systems, frameworks, and libraries, mostly in C Plus Plus.
 
 My interests include computer graphics, systems programming, and machine learning.
 
